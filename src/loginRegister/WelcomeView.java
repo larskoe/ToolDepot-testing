@@ -31,7 +31,6 @@ public class WelcomeView extends Application {
 
     /**
      * @param args the command line arguments
-     * main view to launch window !
      */
     public static void main(String[] args) {
         launch(args);
