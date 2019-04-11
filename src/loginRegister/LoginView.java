@@ -31,6 +31,7 @@ import javafx.stage.Stage;
 
         /**
          * @param args the command line arguments
+         * test
          */
         public static void main(String[] args) {
             launch(args);
