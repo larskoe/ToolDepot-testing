@@ -117,7 +117,7 @@ public class MainController {
     	}    	
     }
     /**
-     * Variables needed for the MainController
+     * Variables needed for the MainController and testing
      */
     private UserArray temp = new UserArray();
     private boolean check = false;
