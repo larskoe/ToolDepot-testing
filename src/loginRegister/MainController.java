@@ -33,6 +33,7 @@ public class MainController {
    
     
     /**
+     * TEST
      * Calls the login view from the Welcome screen
      * @param event once login button is clicked
      * @throws IOException throws an exception if it detects an error
